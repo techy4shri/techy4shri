@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning advance applications of Python and C++ to enhance my software development skills.
 - You can find me learning and creating something anytime you visit, for my learning journey is neverending!
 - 📫 How to reach me: If you would like to collaborate on a project, connect with me on LinkedIn! 
-<a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "center" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/image/linkedin.svg" width=”21px”/></a></br>
+<a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/image/linkedin.svg" height= 21px width=”2px”/></a>
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
 
 My Tech Stack: 
