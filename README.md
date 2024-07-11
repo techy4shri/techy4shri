@@ -2,7 +2,7 @@
 
 - 👋 Hello there! Garima this side! 
 - 😄 Pronouns: She/her
-- 👀 I am a Google Cybersecurity Scholar and a problem solver. Currently swimming in the sea of web development.  <img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/illustration.png"/>
+- 👀 I am a Google Cybersecurity Scholar and a problem solver. Currently swimming in the sea of web development.  <img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"/>
 - 🌱 I’m currently learning advance applications of Python and C++ to enhance my software development skills.
 - You can find me learning and creating something anytime you visit, for my learning journey is neverending!
 - 📫 How to reach me: If you would like to collaborate on a project, connect with me on LinkedIn! 
