@@ -5,17 +5,21 @@
 - 👀 I am a Google Cybersecurity Scholar and a problem solver. Currently swimming in the sea of web development.  <img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"/>
 - 🌱 I’m currently learning advance applications of Python and C++ to enhance my software development skills.
 - You can find me learning and creating something anytime you visit, for my learning journey is neverending!
-- 📫 How to reach me: If you would like to collaborate on a project, connect with me on LinkedIn! 
-<a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a>
+- 📫 How to reach me: for collaboration purpose,connect with me on  <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a>
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
 
+<!------tech stack------>
 My Tech Stack: 
 
 Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 Frameworks/Libraries: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<!--forums and developer platforms-->
+
 Developers/Forums: ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+<!---these don't have a group-->
  *******************************
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 **********************************
