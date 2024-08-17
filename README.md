@@ -1,6 +1,6 @@
 ![GARIMA your neighbour cybersecurity](https://github.com/techy4shri/IMAGE-DETECTION/assets/141991095/f062949d-b0e5-46a1-90ba-a4b0aed1dd87)
 
-- 👋 Hello there! Garima this side! 
+- <h1>👋 Hello there! Garima this side!</h1> 
 - 😄 Pronouns: She/her
 - 👀 I am a Google Cybersecurity Scholar and a problem solver. Currently swimming in the sea of web development.  <img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/lock.png" min-width="300px" max-width="300px" width="350px" align="right"/>
 - 🌱 I’m currently learning advance applications of Python and C++ to enhance my software development skills.
@@ -27,7 +27,7 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
 
 Design: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Work/Job: ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+Work/Job: ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=techy4shri)](https://github.com/techy4shri)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techy4shri&layout=compact)](https://github.com/techy4shri)
