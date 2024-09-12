@@ -1,4 +1,4 @@
-- <h1>👋 Hello there! Garima this side!</h1> 
+- <h1><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hello there! Garima this side!</h1> 
 - 😄 Pronouns: She/her
 - 👀 I am a Google Cybersecurity Scholar and a problem solver. <img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/lock.png" min-width="300px" max-width="300px" width="350px" align="right"/>
 - 🌱 Building solutions for my problems.
