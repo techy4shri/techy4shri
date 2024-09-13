@@ -61,8 +61,6 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
 </div>
 
 <br>
-Freelance: 
-<br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=techy4shri)](https://github.com/techy4shri)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techy4shri&layout=compact)](https://github.com/techy4shri)
