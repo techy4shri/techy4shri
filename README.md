@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/her
 - 👀 I am a Google Cybersecurity Scholar and a problem solver. <img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/lock.png" min-width="300px" max-width="300px" width="350px" align="right"/>
 - 🌱 Building solutions for my problems.
-- 📫 Reach out for collaboration or simply connect: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a>
+- 📫 Reach out for collaboration or simply connect: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a> <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
 
 <!------tech stack------>
@@ -61,7 +61,7 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
 </div>
 
 <br>
-Freelance: <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+Freelance: 
 <br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=techy4shri)](https://github.com/techy4shri)
