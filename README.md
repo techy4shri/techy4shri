@@ -24,7 +24,7 @@ Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-b
 
 </details>
 
-<!--forums and developer platforms-->
+<!--forums and developer platforms+ OS-->
 
 <details>
   <summary>Developers/Forums:</summary> 
@@ -33,7 +33,12 @@ Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-b
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">&nbsp;
 </details>
 <!---these don't have a group-->
- 
+
+
+  Operating Systems: <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows&theme=light" />
+
+
 Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <details>
@@ -56,7 +61,7 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
 </div>
 
 <br>
-Freelance: <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
+Freelance: <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 <br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=techy4shri)](https://github.com/techy4shri)
