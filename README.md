@@ -61,12 +61,6 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
 </div>
 
-<br>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=techy4shri)](https://github.com/techy4shri)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techy4shri&layout=compact)](https://github.com/techy4shri)
-
-
 <!---
 techy4shri/techy4shri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
