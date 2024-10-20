@@ -1,6 +1,6 @@
 - <h1><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hello there! Garima this side!</h1> 
 - 😄 Pronouns: She/her
-- 👀 I am a Google Cybersecurity Scholar and a problem solver. <img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/lock.png" min-width="300px" max-width="300px" width="350px" align="right"/>
+- 👀 I am a Google Cybersecurity Scholar and a problem solver.
 - 🌱 Building solutions for my problems.
 - 📫 Reach out for collaboration purposes: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a> <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
@@ -8,9 +8,7 @@
 
 <!------tech stack------>
 ## <strong>Tech Chest</strong>
-
 Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
 <details>
   <summary>Frameworks/Libraries:</summary> 
   <br>
@@ -24,21 +22,13 @@ Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-b
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 
 </details>
-
 <!--forums and developer platforms+ OS-->
-
 <details>
   <summary>Developers/Forums:</summary> 
 <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">&nbsp;
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">&nbsp;
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">&nbsp;
 </details>
-<!---these don't have a group-->
-
-
-  Operating Systems: <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows&theme=light" />
-
 
 Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -51,14 +41,14 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
 </details>
 
 <!---gssoc badges -->
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
+## GSSoC 2024 Badges 🪶
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/508ab97a-0c3e-4080-995a-7c92d488996b" alt="postman" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/e4f31ed9-f8a8-455a-be63-447d87ed77c7" alt="explorer" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/42958312-2bce-4363-a768-5e97f0453c63" alt="adventurer" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/9a720812-2e19-4583-8bf5-f1a35bd19129" alt="summit seeker" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/84d8ef57-daa8-446b-af2a-7c710a711ec0" alt="trailblazer" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/93784157-748e-45d6-8959-ce5072e6a520" alt="champion" width="100" height="100">
 </div>
 
 <!---
