@@ -5,7 +5,7 @@
 - 🌱 Building solutions for my problems.
 - 📫 Reach out for collaboration purposes: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a> <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
-- I am always up for speaking about opensource and technology in general at events! 
+-  Love talking/yapping about opensource and technology in general! 
 
 <!------tech stack------>
 ## <strong>Tech Chest</strong>
