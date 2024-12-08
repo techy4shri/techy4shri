@@ -1,10 +1,11 @@
 <h1><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hello there! Garima this side!</h1> 
 
-- 😄 Pronouns: She/her
-- 👀 I am a Google Cybersecurity Scholar and a problem solver.
+- 😄 Pronouns: She/her <img src="https://github.com/user-attachments/assets/0a62a14c-805b-460c-91e1-2ddbc12063c6" alt="Image Description" min-width="300px" max-width="300px" width="500" align="right" />
+- 👀 PyLadies | Open-source Developer | Freelancer | Student.
 - 🌱 Building solutions for my problems.
-- 📫 Reach out for collaboration purposes: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a> <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+- 📫 Reach out for collaboration purposes: <a href= "https://www.linkedin.com/in/garima-shrivastav/"><img align= "" src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/icons/linkedin.svg" height= 21px width=”2px”/></a> <a href="https://www.freelancer.com/u/techy4shri"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a> 
 - ⚡ Fun fact: I love finding bugs, especially the tricky kind.
+- 🕵️‍♀️ Find me lurking and exploring the realms of cybersecurity
 
 
 <!------tech stack------>
