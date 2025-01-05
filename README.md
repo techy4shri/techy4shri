@@ -37,7 +37,9 @@ Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-b
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </details>
 
-<!---gssoc badges -->
+<!---badges -->
+## TryHackMe Badges
+<img src= "https://raw.githubusercontent.com/techy4shri/techy4shri/main/assessts/aoc5.svg" height= 100px width=”100px”/></a>
 ## GSSoC 2024 Badges 🪶
 <div align="center">
   <img src="https://github.com/user-attachments/assets/508ab97a-0c3e-4080-995a-7c92d488996b" alt="postman" width="100" height="100">
