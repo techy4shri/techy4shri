@@ -9,7 +9,7 @@
 
 <!------tech stack------>
 ## <strong>Tech Chest</strong>
-Languages: [![My Skills](https://skillicons.dev/icons?i=python,cpp,js&perline=3)](https://skillicons.dev) </br>
+Languages: [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js&perline=4)](https://skillicons.dev) </br>
 
 Frameworks/Tools: </br>
 [![My Skills](https://skillicons.dev/icons?i=docker,react,qt,tensorflow,django,sklearn&perline=3)](https://skillicons.dev)
