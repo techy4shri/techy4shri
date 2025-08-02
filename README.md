@@ -1,4 +1,4 @@
-<h1><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hello, Garima from India here.</h1> 
+<h1><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hello, Garima here.</h1> 
 
 <img src="https://github.com/user-attachments/assets/0a62a14c-805b-460c-91e1-2ddbc12063c6" alt="Image Description" min-width="250px" max-width="300px" width="300" align="right" />
 
