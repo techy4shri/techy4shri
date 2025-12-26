@@ -5,6 +5,7 @@
 - 👀 Researcher| Student | Developer
 - 🌱 Building solutions for my problems.
 - ⚡ Fun fact: I love finding bugs, and solving puzzles.
+- Contact for any inquiries: garima.shrivastava003@gmail.com
 
 
 <!------tech stack------>
